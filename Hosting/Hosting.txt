@@ -1,0 +1,112 @@
+Dear Kento Hize (Arina Organization),
+
+Kindly read this entire email carefully and consider printing a copy for your records.
+
+We appreciate your order! Your hosting account is now fully configured, and this email provides you with all the essential information required to start utilizing your new account.
+
+Please note that if you requested a domain name during sign-up, it may not be immediately visible on the internet. This is due to a process called propagation, which can take up to 48 hours. While waiting for your domain to propagate, your website will not be functional. However, we have supplied a temporary URL below for you to use for uploading files in the interim.
+
+Note on New Domain Registrations (if applicable): Please be advised that upon registering a new domain name, our domain registrar is required to send a verification email to your registered email address, in accordance with ICANN rules. You must verify your domain registration promptly. Kindly note that if your domain name remains unverified after 15 days, it will be suspended until the verification is completed. Should the verification email not appear in your inbox, please be sure to check your junk or spam folder. If needed we can resend the email verification. To ensure that you receive your domain name registration verification email without any interruptions, we recommend whitelisting the email address domainverification@publicdomainregistry.com in your email client. This process helps prevent the verification email from being accidentally filtered into your spam or junk folder. By adding this address to your list of trusted senders, you'll be able to promptly complete your domain registration process by confirming your email address through the verification link sent from this address.
+
+
+New Account Information
+
+Hosting Package: ASP.NET Starter
+Domain: arinaorganization.org
+First Payment Amount: $31.92 USD
+Recurring Amount: $38.30 USD
+Billing Cycle: Annually
+Next Due Date: Thursday, March 26th, 2026
+
+
+Login Details
+
+Username: arinaorg
+Password: 8v1MQfV!_Mk2j7
+
+Plesk Control Panel URL: https://awh-plesk1-win2022.adaptivewebhosting.com
+
+Should you wish to use an existing domain with your new hosting account, please update the nameservers at your domain registrar to match those provided below.
+
+Nameserver 1: ns1.adaptivewebhosting.com
+Nameserver 2: ns2.adaptivewebhosting.com
+Nameserver 3: ns3.adaptivewebhosting.com
+Nameserver 4: ns4.adaptivewebhosting.com
+
+
+Uploading Your Website
+
+In the interim, you may utilize one of the following addresses to manage your website:
+
+Temporary FTP Hostname: 34.227.55.226
+Temporary Webpage URL: http://34.227.55.226/plesk-site-preview/arinaorganization.org/
+
+And once your domain has propagated you may use the details below:
+
+FTP Hostname: arinaorganization.org
+Webpage URL: http://www.arinaorganization.org
+
+
+Free SSL Certificates
+
+Please follow this article to install free SSL certificates to your account using the Plesk Control Panel: How do I Install an SSL Certificate on my Website?
+
+
+SQL 2022 Database Server Information
+
+Your SQL 2022 Database Server Fully Qualified Domain Name is:
+
+sql2022-001.adaptivewebhosting.com
+
+
+SQL 2019 Database Server Information
+
+Your SQL 2019 Database Server Fully Qualified Domain Name is:
+
+sql2019-001.adaptivewebhosting.com
+
+When connecting to your SQL Database, kindly utilize the provided address for SQL connection strings or remote access.
+
+
+MariaDB MySQL Database Server Information
+
+Your MySQL MariaDB's the Fully Qualified Domain Name of your MySQL Server is:
+
+mysql-win2019-001.adaptivewebhosting.com or if on mySQL 2022 - mysql-win2022-001.adaptivewebhosting.com
+
+
+SmarterMail WebMail URL: https://adaptivewebmail.com
+
+If enabled as a FREE ADDON: Once email users are created in the Plesk Control Panel you can log in to WebMail to send and receive email, manage contacts, calendars, tasks, notes, and more.  
+
+To create Email Users in Plesk please follow this article: How do I create an Email User?
+
+Other Useful Articles:
+
+How do I setup my Email Client?
+
+What are your supported EMail Protocols?
+
+Where can I Locate my Mail Server Settings?
+
+
+SMTP/POP3/IMAP Mail Server
+
+SMTP/POP3/IMAP Server: EC2AMAZ-A4G4262.adaptivewebhosting.com
+
+
+Customer/Technical/Billing Support Teams
+
+Our Customer and Technical Support teams are accessible around the clock, every day of the year, via our efficient Online HelpDesk Ticket System. This approach ensures prompt issue resolution and is the recommended way to reach our support staff for the majority of concerns. Over the past few years, our average response time has been under 30 minutes through the HelpDesk.
+
+Please note that our Billing Department operates between 11 AM and 11 PM EST, Monday through Friday.
+
+We appreciate your choice to join Adaptive Web Hosting and are thrilled to welcome you as a valued customer!
+
+---
+Adaptive Web Hosting
+Website: https://adaptivewebhosting.com
+Customer Account Management Site: https://cp.adaptivewebhosting.com
+
+visit our website | log in to your account | get support
+Copyright © Adaptive Web Hosting, All rights reserved.
